@@ -1,4 +1,4 @@
-## Locust 
+## Locust on Cloud Foundry 
 This is a small locust demo app running on Cloud foundry
 
 
