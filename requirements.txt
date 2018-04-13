@@ -1,0 +1,4 @@
+locustio
+pyzmq
+msgpack-python
+pyquery
